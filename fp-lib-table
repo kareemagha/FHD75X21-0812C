@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "PersonalLib") (type "KiCad") (uri "C:/Users/karee/Documents/Kicad/PersonalLib.pretty") (options "") (descr ""))
+)
