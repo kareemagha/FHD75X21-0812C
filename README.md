@@ -8,6 +8,10 @@ Backside
 Frontside
 <img width="933" height="351" alt="image" src="https://github.com/user-attachments/assets/23009084-96d2-40e0-83e3-4a3026f128e8" />
 
+Demo
+<img width="1726" height="1157" alt="image" src="https://github.com/user-attachments/assets/987c3ff7-e18b-4d92-af64-8ebd35fc6abb" />
+
+
 ## Theory
 
 The PT6315 IC is the brains of this driver. It is nothing more than some RAM and some shift registers. This IC uses SPI for communication, with the strobe, STB, pin acting as chip select (slave select). However, I would not reccomend using an SPI library to communicate with this IC, since the chip select functionality is non-standard.
